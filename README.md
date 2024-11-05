@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi there! 👋 I'm Dharshana Sivalingam
 
-<!--
-**dharshana-s/dharshana-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech in Computer Science and Business Systems** from M.Kumarasamy College of Engineering  
+🌐 **Aspiring Full-Stack Developer** | Passionate about **Web Development**, **Software Solutions**, and **Tech Innovations**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+- **Front-End**: HTML, CSS, JavaScript, React, Bootstrap
+- **Back-End**: PHP, Java, C++
+- **Databases**: MongoDB, MySQL, SQL
+- **Languages**: C, C++, Java, JavaScript
+- **Other Skills**: Web Scraping, API Integration, Leadership & Communication Skills
+
+---
+
+## 💼 Projects
+- **[Read and Recycle](#)**  
+  A responsive website for users to exchange used books at affordable prices. Features book search by genre, author, or publisher, and allows direct seller-buyer contact.
+
+- **Weather Dashboard**  
+  Built using **API integration** to display real-time weather information for different locations.
+
+- **Complaint Management System**  
+  Developed with **HTML, CSS, JavaScript, Bootstrap, PHP, and MySQL**, allowing users to submit, track, and resolve complaints effectively.
+
+- **Innovation Excellence Indicator**  
+  Created using **React, PHP, MySQL, and web scraping**. Includes clustering algorithms to group students based on achievements, stores scores, and updates a leaderboard for recruiters to access top candidates.
+
+- **Bakery Sales Tracker**  
+  A C++ program to calculate revenue and track sales of a bakery.
+
+---
+
+## 📈 Leadership & Extracurriculars
+- **Student Coordinator** of the Books Club 📚
+- **Event Coordinator** for various departmental events
+- Presented projects and innovations, including at TIH (Technology Innovation Hub)
+
+---
+
+## 🌐 Connect with Me
+- **GitHub**: [Dharshana Sivalingam](https://github.com/dharshana-s)
+- **LinkedIn**: [Dharshana Sivalingam](https://www.linkedin.com/in/dharshana-sivalingamam-aa120125a/)
+- **Email**: dharshanasivalingam@gmail.com
+
+---
+
+I'm open to new opportunities, collaborations, and learning experiences in tech. Let’s connect and create something amazing! 🚀
