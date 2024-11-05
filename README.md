@@ -15,7 +15,7 @@
 ---
 
 ## 💼 Projects
-- **[Read and Recycle](#)**  
+- **Read and Recycle**  
   A responsive website for users to exchange used books at affordable prices. Features book search by genre, author, or publisher, and allows direct seller-buyer contact.
 
 - **Weather Dashboard**  
