@@ -24,11 +24,7 @@
 - **Complaint Management System**  
   Developed with **HTML, CSS, JavaScript, Bootstrap, PHP, and MySQL**, allowing users to submit, track, and resolve complaints effectively.
 
-- **Innovation Excellence Indicator**  
-  Created using **React, PHP, MySQL, and web scraping**. Includes clustering algorithms to group students based on achievements, stores scores, and updates a leaderboard for recruiters to access top candidates.
 
-- **Bakery Sales Tracker**  
-  A C++ program to calculate revenue and track sales of a bakery.
 
 ---
 
